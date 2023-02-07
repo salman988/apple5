@@ -1,1 +1,2 @@
 mainy text file main code change kiya ab isy b commit krna hai.
+today is the second day of git class.
